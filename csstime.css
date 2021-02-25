@@ -1,0 +1,61 @@
+body {
+    background-image: url("seamless.jpg");
+  }
+
+.title{
+    text-align: center;
+    font-style: oblique
+
+
+}
+.header{
+    font-weight: bolder
+}
+
+.row{
+    margin-top: 20px;
+    
+}
+
+.info{
+
+    margin-right: auto;
+    height: 300px;
+    width: 300px;
+    background-color: salmon;
+    border-style: outset;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+
+.col-sm{
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right:300px;
+    text-align: center;
+    border-style:outset;
+    
+}
+
+.form-group{
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.pic{
+    left: 50px;
+    margin-right: 50px;
+}
+
+.links{
+    background-color:white;
+    font-size: 18px;
+    height:5000px;
+    width:650px;
+}
+
+.contactinfo{
+    margin: auto;
+    margin-top: 25px;
+}
